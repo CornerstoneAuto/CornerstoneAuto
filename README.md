@@ -6,7 +6,7 @@ Coin Specs
 
 Scrypt POW
 
-Initial Coins Per Block: 3
+Coins Per Block: 3
 
 Block Halving Rate:  blocks (approx. every 3 years)
 
